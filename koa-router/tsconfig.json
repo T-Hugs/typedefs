@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+      "module": "commonjs"
+  },
+  "files": [
+    "koa-router.d.ts",
+	"typings/main.d.ts"
+  ]
+}
