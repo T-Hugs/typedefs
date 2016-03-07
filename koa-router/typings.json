@@ -1,7 +1,8 @@
 {
-  "name": "koa-router",
-  "main": "koa-router.d.ts",
-  "ambientDependencies": {
-    "koa": "github:DefinitelyTyped/DefinitelyTyped/koa/koa.d.ts#3d7909ee394891b4f6ca5a0b2a556c60924b6bf1"
-  }
+	"name": "koa-router",
+	"main": "koa-router.d.ts",
+	"ambientDependencies": {
+		"koa": "github:DefinitelyTyped/DefinitelyTyped/koa/koa.d.ts#3d7909ee394891b4f6ca5a0b2a556c60924b6bf1",
+		"node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#aee0039a2d6686ec78352125010ebb38a7a7d743"
+	}
 }
