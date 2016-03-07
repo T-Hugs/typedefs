@@ -158,7 +158,7 @@ declare class Router {
 	 */
 	public del(path: string, ...middleware: { (ctx: koa.Context, next: () => any): any }[]): Router;
 
-	public param(param, middleware, ...params): Router;
+	public param(param: any, middleware: any, ...params: any[]): Router;
 }
 
 export = Router;
