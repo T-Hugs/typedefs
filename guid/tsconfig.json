@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": true,
+		"target": "es5"
+	},
+	"files": [
+		"guid.d.ts"
+	]
+}
