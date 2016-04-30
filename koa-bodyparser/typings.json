@@ -2,5 +2,6 @@
 	"name": "koa-bodyparser",
 	"main": "koa-bodyparser.d.ts",
 	"ambientDependencies": {
+		"koa": "github:DefinitelyTyped/DefinitelyTyped/koa/koa.d.ts#3d7909ee394891b4f6ca5a0b2a556c60924b6bf1"
 	}
 }
