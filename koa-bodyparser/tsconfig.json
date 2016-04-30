@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": true
+	},
+	"files": [
+		"koa-bodyparser.d.ts",
+		"typings/main.d.ts"
+	]
+}

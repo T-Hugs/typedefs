@@ -1,0 +1,6 @@
+{
+	"name": "koa-bodyparser",
+	"main": "koa-bodyparser.d.ts",
+	"ambientDependencies": {
+	}
+}
